@@ -65,7 +65,7 @@ And the updated scores by school size here:
 
 Taking into account rounding, the scores by school size did not change. We might have expected some change among the medium group, since Thomas High School is a medium sized school, but the changes in metrics were small enough that they were absorbed by rounding. 
 
-### Scores by School Type. 
+### Scores by School Type
 Please see the original scores by school type here:
 
 ![Type Summary - Original](Images/type_summary_before.png)
