@@ -1,7 +1,8 @@
 # School District Analysis
 
 ## Overview
-In this analysis, we adjust the original school district to account for the academic dishonesty you reported amongst ninth graders at Thomas High School. Reading and Math scores for these students have replaced with null data, and the school district analysis has been repeated to determine the overall testing performance of students at each high school in the district, as well as breakdowns by size, spending, and type. I examine how these replacements have changed each of these analyses. 
+
+In this analysis, I adjust the original school district analysis to account for the academic dishonesty you reported amongst ninth graders at Thomas High School. Reading and Math scores for these students have replaced with null data, and the school district analysis has been repeated to determine the overall testing performance of students at each high school in the district, as well as breakdowns by grade level, size, spending, and type. I also examine how these replacements have changed each of the metrics. 
 
 ## Results
 
