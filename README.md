@@ -8,9 +8,11 @@ In this analysis, we adjust the original school district to account for the acad
 ### District Summary
 
 Please see the original district summary here:
+
 ![School District Summary - Original](Images/district_summary_before.png)
 
 And the updated summary here:
+
 ![School District Summary - After Replacement](Images/district_summary_after.png)
 
 The average reading score and the percent of students passing reading did not change. However, the average math score dropped by 0.1 points, the percent of students passing math dropped by 0.2, and the percent of students passing overall (both subjects) dropped by 0.3.
@@ -18,9 +20,11 @@ The average reading score and the percent of students passing reading did not ch
 ### School Summary
 
 Please see the original school summary here:
-![School Summary - Original](Images/per_school_summary_before.png.png)
+
+![School Summary - Original](Images/per_school_summary_before.png)
 
 And the updated school summary here:
+
 ![School Summary - After Replacement](Images/per_school_summary_after.png)
 
 The metrics for Thomas High School changed after correction.
@@ -41,27 +45,33 @@ Grade replacement was limited to only 9th graders at Thomas High School, so the 
 
 ### Scores by School Spending
 Please see the original scores by school spending here:
+
 ![Spending Summary - Original](Images/spending_summary_after.png)
 
 And the updated scores by school spending here:
+
 ![Spending Summary - After Replacement](Images/spending_summary_after.png)
 
 Taking into account rounding, the scores by school spending did not change. We might have expected some change among the $630 -$644 group, since Thomas High School is in this group, but the changes in the metrics were small enough that they were absorbed by rounding.
 
 ### Scores by School Size
 Please see the original scores by school size here:
+
 ![Size Summary - Original](Images/size_summary_before.png)
 
 And the updated scores by school size here:
+
 ![Size Summary - After Replacement](Images/size_summary_after.png)
 
 Taking into account rounding, the scores by school size did not change. We might have expected some change among the medium group, since Thomas High School is a medium sized school, but the changes in metrics were small enough that they were absorbed by rounding. 
 
 ### Scores by School Type. 
 Please see the original scores by school type here:
+
 ![Type Summary - Original](Images/type_summary_before.png)
 
 And the updated scores by school type here:
+
 ![Type Summary - After Replacement](Images/type_summary_after.png)
 
 Taking into account rounding, the scores by school size did not change. We might have expected some change among the Charter group, since Thomas High School is a Charter school but the changes in metrics were small enough that they were absorbed by rounding. 
